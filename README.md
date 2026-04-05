@@ -1,2 +1,2 @@
 # cast_word
-Inglés para Primaria
+Inglés para Básica Primaria
